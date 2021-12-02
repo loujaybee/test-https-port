@@ -1,1 +1,3 @@
 experimentalNetwork: true
+image:
+  file: .gitpod.Dockerfile
