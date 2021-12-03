@@ -1,2 +1,2 @@
 experimentalNetwork: true
-image: golang:1.16.10-alpine3.15
+image: golang
