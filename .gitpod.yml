@@ -1,2 +1,2 @@
 experimentalNetwork: true
-image: golang
+image: golang:latest
