@@ -1,1 +1,1 @@
-image: golang:latest
+image: golang:1.17.0
