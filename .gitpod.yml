@@ -1,1 +1,2 @@
-image: golang:latest
+image: 
+  file: gitpod.Dockerfile
