@@ -20,4 +20,6 @@ jobs:
           GATEWAY_LINK1: ${{ github.events.inputs.secret_gateway_link }}
         run: |
           export GATEWAY_LINK=$(jq -r '.inputs.secret_gateway_link' $GITHUB_EVENT_PATH)
+          echo $GITHUB_EVENT_PATH
+          cat $GITHUB_EVENT_PATH
           echo $GATEWAY_LINK
