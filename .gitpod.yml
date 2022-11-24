@@ -5,3 +5,5 @@ vscode:
     - "https://openvsxorg.blob.core.windows.net/resources/timonwong/shellcheck/linux-x64/0.28.2/timonwong.shellcheck-0.28.2@linux-x64.vsix"
     - "https://openvsxorg.blob.core.windows.net/resources/egomobile/vscode-powertools/0.67.4/egomobile.vscode-powertools-0.67.4.vsix"
     - "https://openvsxorg.blob.core.windows.net/resources/carlosorozcojimenez/ui5-tools/2.1.4/carlosorozcojimenez.ui5-tools-2.1.4.vsix"
+    - "golang.Go"
+    - "google-cloud-spanner-ecosystem.google-cloud-spanner-driver"
