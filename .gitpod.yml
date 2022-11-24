@@ -1,2 +1,7 @@
-image:
-  file: .gitpod.Dockerfile
+vscode:
+  extensions:
+    - "https://openvsxorg.blob.core.windows.net/resources/stripe/vscode-stripe/2.0.14/stripe.vscode-stripe-2.0.14.vsix"
+    - "https://openvsxorg.blob.core.windows.net/resources/redhat/java/linux-x64/1.13.2022112403/redhat.java-1.13.2022112403@linux-x64.vsix"
+    - "https://openvsxorg.blob.core.windows.net/resources/timonwong/shellcheck/linux-x64/0.28.2/timonwong.shellcheck-0.28.2@linux-x64.vsix"
+    - "https://openvsxorg.blob.core.windows.net/resources/egomobile/vscode-powertools/0.67.4/egomobile.vscode-powertools-0.67.4.vsix"
+    - "https://openvsxorg.blob.core.windows.net/resources/carlosorozcojimenez/ui5-tools/2.1.4/carlosorozcojimenez.ui5-tools-2.1.4.vsix"
