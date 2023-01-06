@@ -1,3 +1,1 @@
-FROM gitpod/workspace-full
-
-RUN ls
+FROM hashicorp/terraform:1.2.9
