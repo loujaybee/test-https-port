@@ -8,4 +8,3 @@ ports:
     description: Port 5173 for the frontend
     port: 5173
     onOpen: open-preview
-    protocol: https
